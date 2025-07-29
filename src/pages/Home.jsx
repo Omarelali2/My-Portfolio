@@ -5,7 +5,7 @@ import About from '../components/About'
 import Skills from '../components/Skills'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
-import Projectors from "../components/projects"
+import Projectors from "../components/Product"
 const Home = () => {
   return (
     <div>
