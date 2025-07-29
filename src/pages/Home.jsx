@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import HeroSection from '../components/HeroSection'
-import Projects from '../components/projects'
 import About from '../components/About'
 import Skills from '../components/Skills'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
+import Projectors from "../components/projects"
 const Home = () => {
   return (
     <div>
         <Navbar />
       <HeroSection />
-      <Projects />
+      <Projectors />
       <About />
       <Skills />
       <Contact />
