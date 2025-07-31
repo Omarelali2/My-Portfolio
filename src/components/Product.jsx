@@ -5,7 +5,7 @@ import forever from "../assets/forever.jpg"
 const project = [
   {
     name: "Samsung Clone",
-    description: "Full-stack Apple store",
+    description: "Full-stack Samsung store (attention: not official and is opened in desktop mode only)",
     stack: [
       "React",
       "Node.js",
@@ -21,8 +21,8 @@ const project = [
     github: "https://github.com/Omarelali2/sumsung-store-backend",
   },
   {
-    name: "World Explorer",
-    description: "Explore data about all the countries",
+    name: "university education",
+    description: "A simple education website",
     stack: ["React", "CSS"],
     image: education,
     live: "https://education-rho-six.vercel.app/",
@@ -30,7 +30,7 @@ const project = [
   },
   {
     name: "Clothing store",
-    description: "Simple todo list app",
+    description: "A simple clothing store",
     stack: ["React", "CSS", "TailwindCSS", "React Router"],
     image: forever,
     live: "https://buy-products-six.vercel.app/",
